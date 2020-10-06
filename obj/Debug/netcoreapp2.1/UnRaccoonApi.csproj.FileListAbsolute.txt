@@ -1,0 +1,14 @@
+C:\Users\Nicolas\UnRaccoonApi\bin\Debug\netcoreapp2.1\UnRaccoonApi.deps.json
+C:\Users\Nicolas\UnRaccoonApi\bin\Debug\netcoreapp2.1\UnRaccoonApi.runtimeconfig.json
+C:\Users\Nicolas\UnRaccoonApi\bin\Debug\netcoreapp2.1\UnRaccoonApi.runtimeconfig.dev.json
+C:\Users\Nicolas\UnRaccoonApi\bin\Debug\netcoreapp2.1\UnRaccoonApi.dll
+C:\Users\Nicolas\UnRaccoonApi\bin\Debug\netcoreapp2.1\UnRaccoonApi.pdb
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.csprojAssemblyReference.cache
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.RazorAssemblyInfo.cache
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.RazorAssemblyInfo.cs
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.AssemblyInfoInputs.cache
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.AssemblyInfo.cs
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.dll
+C:\Users\Nicolas\UnRaccoonApi\obj\Debug\netcoreapp2.1\UnRaccoonApi.pdb
