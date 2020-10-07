@@ -53,7 +53,7 @@ namespace UnRaccoonApi.Controllers
 
             _supportService.Update(id, ticketIn);
 
-            return NoContent();
+            return Ok(ticketIn);
         }
 
         [HttpDelete("{id:length(24)}")]
